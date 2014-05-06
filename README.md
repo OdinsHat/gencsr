@@ -1,4 +1,4 @@
-GENSSL
+GenCSR
 ======
 
 Script was created to make it easier to generate CSR when setting up new SSL
