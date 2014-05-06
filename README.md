@@ -14,7 +14,7 @@ Example Usage
 -------------
 
 ```shell
-$ python genssl.py --country GB --state Birmingham --locality Birmingham --organisation "Company Ltd" www.example.co.uk
+$ python gencsr.py --country GB --state Birmingham --locality Birmingham --organisation "Company Ltd" www.example.co.uk
 ```
 
 To Do
