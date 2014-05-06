@@ -8,14 +8,14 @@ except ImportError:
 
 requirements = ('pkiutils', 'argparse')
 
-setup(name='genssl',
+setup(name='gencsr',
     version='0.1b',
     description='Generates a CSR for creating your sits SSL certificate',
     long_description=open('README.md'),
     author='Doug Bromley',
-    author_email='doug+genssl@tintophat.com',
-    url='https://github.com/OdinsHat/genssl',
-    scripts=['genssl.py'],
+    author_email='doug@tintophat.com',
+    url='https://github.com/OdinsHat/gencsr',
+    scripts=['gencsr.py'],
     license='BSD',
     keywords='ssl key csr openssl',
     platforms = 'any',
